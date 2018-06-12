@@ -1,6 +1,6 @@
 /*
 mkdir -p src/main/java/org/allowed/bitarus
-http://localhost:8081/dummy-1.0/index.jsp?user=TestASD
+http://localhost:8081/jsp-example-1.0/index.jsp?user=TestASD
 */
 package org.allowed.bitarus;
 
